@@ -36,3 +36,7 @@ C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFoo
 C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
 C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
 C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
