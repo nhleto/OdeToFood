@@ -1,6 +1,6 @@
 ﻿using OdeToFood.Core;
-using System.Linq;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace OdeToFood.Data
@@ -52,7 +52,7 @@ namespace OdeToFood.Data
 
         public int Commit()
         {
-            return 0; 
+            return 0;
         }
 
         public IEnumerable<Restaurant> GetRestaurantsByName(string name = null)

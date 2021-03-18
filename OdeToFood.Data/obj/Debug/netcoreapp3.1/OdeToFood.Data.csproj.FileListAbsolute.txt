@@ -27,3 +27,4 @@ C:\Users\hnrle\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\Ode
 C:\Users\hnrle\source\repos\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
 C:\Users\hnrle\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
 C:\Users\hnrle\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.genruntimeconfig.cache
+C:\Users\hnrle\source\repos\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csprojAssemblyReference.cache
