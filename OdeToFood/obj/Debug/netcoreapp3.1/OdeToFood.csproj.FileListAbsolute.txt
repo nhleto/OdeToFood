@@ -168,3 +168,5 @@ C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFoo
 C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.Views.pdb
 C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
 C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
+C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\hnrle\source\repos\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
